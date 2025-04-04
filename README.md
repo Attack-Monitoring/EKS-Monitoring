@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=41ab5d&height=300&section=header&text=AWS-EKS-Monitoring-System&fontSize=60&fontColor=FFFFFF&animation=fadeIn&width=1200" width="1200" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=41ab5d&height=300&section=header&text=AWS-EKS-Monitoring-System&fontSize=50&fontColor=FFFFFF&animation=fadeIn&width=1200" width="1200" />
 
 
 # 🌐 EKS 클러스터 모니터링 시스템 구축 가이드
